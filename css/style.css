@@ -33,7 +33,7 @@ body {
   text-transform: uppercase;
   background-color: #fec913;
   border: 1px solid transparent;
-  color: #fff;
+  color: #ffffff;
   transition: all 0.3s ease 0s;
 }
 
@@ -210,6 +210,7 @@ a:focus {
 
 
 .hero_detail-box p {
+    padding-left: 0px;
   margin-top: 20px;
   margin-bottom: 35px;
 }
