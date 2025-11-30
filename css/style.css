@@ -88,7 +88,9 @@ nav.navbar.navbar-expand-lg {
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-item.active .nav-link {
   color: #f3f3f3;
 }
-
+li{
+   color: #f3f3f3!important;
+}
 a,
 a:hover,
 a:focus {
